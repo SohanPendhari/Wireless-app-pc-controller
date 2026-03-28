@@ -31,12 +31,12 @@ It works like a **remote mouse, keyboard, and touchpad** using a QR-based connec
 
 ### 📱 QR Scanner (Mobile)
 <p align="center">
-  <img src="./screenshots/scanner.jpg" width="250"/>
+  <img src="./screenshots/scanner.png" width="250"/>
 </p>
 
 ### 📱 Mobile Controller UI
 <p align="center">
-  <img src="./screenshots/controller.jpg" width="250"/>
+  <img src="./screenshots/controller.png" width="250"/>
 </p>
 
 ---
